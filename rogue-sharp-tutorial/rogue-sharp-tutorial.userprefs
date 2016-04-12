@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="rogue-sharp-tutorial.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Core/Directions.cs">
+    <Files>
+      <File FileName="Main.cs" Line="35" Column="52" />
+      <File FileName="Core/Swatch.cs" Line="1" Column="13" />
+      <File FileName="Core/Colors.cs" Line="19" Column="49" />
+      <File FileName="Core/DungeonMap.cs" Line="34" Column="4" />
+      <File FileName="Systems/MapGenerator.cs" Line="2" Column="31" />
+      <File FileName="Interfaces/IActor.cs" Line="1" Column="29" />
+      <File FileName="Interfaces/IDrawable.cs" Line="2" Column="18" />
+      <File FileName="Core/Actor.cs" Line="3" Column="31" />
+      <File FileName="Core/Player.cs" Line="1" Column="17" />
+      <File FileName="Core/Directions.cs" Line="17" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
